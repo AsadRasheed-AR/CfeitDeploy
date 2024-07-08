@@ -1,0 +1,8 @@
+Archieve
+Templates
+__pycache__
+EASYOCR
+main.py
+*.ps1
+.env
+.vercel
